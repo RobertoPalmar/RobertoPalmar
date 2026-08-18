@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devpalmar.vercel.app">
+  <a href="https://devpalmar.com">
     <img src="https://img.shields.io/badge/Portafolio-devpalmar.vercel.app-EC2A39?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio devpalmar" />
   </a>
 </p>
@@ -27,7 +27,7 @@ Desarrollador full-stack con preferencia por el **backend, la arquitectura de si
 
 Fuera de mi trabajo full-time, desarrollo proyectos a medida para clientes bajo la marca **devpalmar**: sitios web, backends e integraciones de software personalizadas.
 
-👉 **Mira mi trabajo en [devpalmar.vercel.app](https://devpalmar.vercel.app)**
+👉 **Mira mi trabajo en [devpalmar.com](https://devpalmar.com)**
 
 ---
 
@@ -57,7 +57,7 @@ Fuera de mi trabajo full-time, desarrollo proyectos a medida para clientes bajo 
 ---
 
 <p align="center">
-  <a href="https://devpalmar.vercel.app">🌐 Portafolio</a> ·
+  <a href="https://devpalmar.com">🌐 Portafolio</a> ·
   <a href="https://github.com/RobertoPalmar">💻 GitHub</a>
 </p>
 
