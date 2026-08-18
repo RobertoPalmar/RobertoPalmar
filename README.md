@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://devpalmar.com">
-    <img src="https://img.shields.io/badge/Portafolio-devpalmar.vercel.app-EC2A39?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio devpalmar" />
+    <img src="https://img.shields.io/badge/Portafolio-devpalmar.com-EC2A39?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio devpalmar" />
   </a>
 </p>
 
